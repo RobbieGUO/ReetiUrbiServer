@@ -3,7 +3,7 @@ The project is used for:
 2, Receive cerevoice commands from VSM, then generate voice from Reeti side, move Reeti's mouth and send feedback to VSM.
 
 How to compile :
-- open this project in netbeans.
+- open this project in netbeans(with JDK 8).
 - open "ReetiUrbiServer" properties, choose "Library", 
     - add liburbijava.jar from directory "/usr/local/gostai/share/sdk-remote/java/lib".
     - add CereproTtsServer.jar from directory "ReetiUrbiServer/dist/lib".
