@@ -18,7 +18,7 @@ How to launch(The project should be launched on Reeti):
         change the value of CereproTts_Used to false.
     - if you need to use CerepeocTts,
         - change the value of CereproTts_Used to true.
-        - change the value of cereproc_lib_path to the directory of javalib. it should be (your cerevoice_sdk folder got from           www.cereproc.com )./cerevoice_eng/javalib/
+        - change the value of cereproc_lib_path to the directory of javalib. it should be (your cerevoice_sdk folder got from           www.cereproc.com )/cerevoice_eng/javalib/
         - change the value of cereproc_voice to the directory of your voce file (eg 'cerevoice_heather_3.0.9_22k.voice').
         - change the value of cereproc_license to the directory of your license file (eg 'license.lic').
   
